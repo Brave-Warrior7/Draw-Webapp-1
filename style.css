@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient( lightblue , rgb(0, 217, 255), blue);
+}
+#score_1{
+    color:rebeccapurple;
+    font-size: large;
+    font-weight: bold;
+    float: left; 
+    margin-left: 40px;
+}
+#timer_1{
+    color:rebeccapurple;
+    font-size: large;
+    font-weight: bold;
+    float: right; 
+    margin-right: 40px;
+}
+#timer, #score{
+    color:rebeccapurple;
+    font-size: large;
+    font-weight: bold;
+}
+#show_sketch{
+    background-color:rebeccapurple;
+    color: white;
+}
+#show_sketch:hover{
+    background-color:purple;
+    font-weight: bold;
+}
